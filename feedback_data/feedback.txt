@@ -1,0 +1,119 @@
+Employee ID: 101 | Dept: Engineering | Tenure: 2 years
+Feedback: Honestly, the workload is fine but sometimes deadlines are unrealistic. My manager is supportive, but the team meetings drag on forever. Not sure if I want to stay long-term.
+
+Dept: Sales
+Feedback: Love the team! Training was a bit rushed, but I picked things up.
+
+Tenure: 4 years
+Feedback: Communication from upper management is lacking. We often hear about changes last minute. Benefits are okay.
+
+Feedback: Customers are sometimes rude, but my supervisor always has my back. I wish there were more snacks in the break room.
+
+Employee ID: 105
+Feedback: I’m considering leaving. The new project manager doesn’t listen to feedback and I feel overworked. I’ve raised this before but nothing changed.
+
+Employee ID: 106 | Dept: Finance
+Feedback: Stable job, decent pay. Not much room for growth, but I like my coworkers.
+
+Feedback: Sometimes I feel lost in meetings, but the creative freedom is awesome. Would be great to have clearer KPIs.
+
+Feedback: The new hybrid policy is great. I can focus at home and collaborate in the office. More technical workshops would help.
+
+Dept: Support | Tenure: 3 years
+Feedback: The night shifts are tough on my health. I’ve asked to move to day shifts but no luck. Thinking about switching jobs if it doesn’t improve.
+
+Feedback: Onboarding process needs improvement. New hires are confused about benefits and reporting structure.
+
+Employee ID: 112
+Feedback: I’m learning a lot, but sometimes I get tasks with no explanation. My buddy helps, but I wish documentation was better.
+
+Feedback: Love the company culture! Sometimes deadlines are tight, but we always pull together as a team.
+
+Feedback: Not much to say. Work is okay, people are fine.
+
+Employee ID: 115 | Tenure: 7 years
+Feedback: Promotions seem random. I’ve mentored three juniors and still no recognition. I like the tech stack, but career growth is slow.
+
+Feedback: Some days are good, some days are not. Calls can be stressful. Wish we had more breaks.
+
+Dept: Sales | Employee ID: 117
+Feedback: I’ve hit my targets every quarter, but the bonus was less than promised. Management says it’s a budget issue.
+
+Feedback: Sometimes I feel like HR is blamed for everything. We need more support from leadership.
+
+Feedback: The new code review process is slow. I get helpful feedback but releases are delayed.
+
+Feedback: I love the creative projects, but sometimes feedback from clients is vague. Not sure how to improve.
+
+Feedback: I like helping customers, but the ticketing system crashes a lot. Reported it several times, still not fixed.
+
+Feedback: After the reorg, I’m not sure who to report to. Projects are interesting, but I miss the old team.
+
+Feedback: Workload is manageable. Would like more training on new software.
+
+Feedback: Sometimes my ideas are ignored in meetings. Otherwise, the team is supportive.
+
+Employee ID: 125
+Feedback: I appreciate the flexible hours. Would like more opportunities for professional development.
+
+Feedback: Still figuring things out. Everyone’s been helpful so far. No complaints.
+
+Feedback: Schedule is unpredictable, makes planning hard. Benefits are good though.
+
+Feedback: Sometimes too many meetings, but overall I enjoy the work. The new manager brings good energy.
+
+Feedback: I feel burnt out. Too many late nights, not enough recognition. I’m actively looking for new opportunities.
+
+Feedback: Travel is fun but exhausting. Would like more remote work options.
+
+Employee ID: 201 | Name: Priya Sharma | Dept: HR | Tenure: 3 years | Gender: Female | Location: Mumbai
+Feedback: I enjoy working with my team and feel supported by my manager. Sometimes, communication from upper management could be better.
+
+Name: John Doe | Dept: Engineering | Email: john.doe@company.com
+Feedback: The new project is challenging but rewarding. I wish there were more opportunities for training.
+
+Employee ID: 203 | Dept: Sales | Tenure: 1 year | Location: Delhi | Phone: 9876543210
+Feedback: Targets are high but achievable. The commission structure changed and it's confusing.
+
+Name: Aisha Khan | Dept: Support | Tenure: 2 years | Gender: Female
+Feedback: I appreciate the flexible hours, but the shift schedule changes too often.
+
+Employee ID: 205 | Name: Rajiv Menon | Dept: Marketing | Gender: Male
+Feedback: Sometimes I feel lost in meetings, but the creative freedom is awesome.
+
+Dept: Engineering | Name: Sunil Gupta | Email: sunil.gupta@company.com | Location: Bengaluru
+Feedback: The hybrid work policy is great for my family life.
+
+Feedback: I feel burnt out. Too many late nights, not enough recognition. I’m actively looking for new opportunities.
+
+Name: Emily Chen | Dept: Finance | Tenure: 4 years | Gender: Female
+Feedback: Work is stable, but I’d like more challenging assignments.
+
+Employee ID: 208 | Name: Michael Smith | Dept: HR | Tenure: 2 years | Gender: Male | Email: m.smith@company.com
+Feedback: Onboarding process needs improvement. New hires are confused about benefits and reporting structure.
+
+Feedback: Sometimes my ideas are ignored in meetings. Otherwise, the team is supportive.
+
+Location: Pune | Dept: Support | Name: Ritu Singh | Tenure: 3 years
+Feedback: The night shifts are tough on my health. I’ve asked to move to day shifts but no luck.
+
+Employee ID: 211 | Name: Aman Verma | Dept: Engineering | Tenure: 2 years | Gender: Male | Location: Gurgaon
+Feedback: The new code review process is slow. I get helpful feedback but releases are delayed.
+
+Feedback: Travel is fun but exhausting. Would like more remote work options.
+
+Name: Kavya Patel | Dept: HR | Tenure: 1 year | Gender: Female | Email: kavya.patel@company.com
+Feedback: Sometimes I feel like HR is blamed for everything. We need more support from leadership.
+
+Employee ID: 214 | Name: Vikram Rao | Dept: Sales | Tenure: 5 years | Gender: Male | Phone: 9988776655
+Feedback: I’ve hit my targets every quarter, but the bonus was less than promised. Management says it’s a budget issue.
+
+Feedback: Love the company culture! Sometimes deadlines are tight, but we always pull together as a team.
+
+Name: Sara Fernandes | Dept: Marketing | Tenure: 2 years | Gender: Female | Location: Chennai
+Feedback: Sometimes too many meetings, but overall I enjoy the work. The new manager brings good energy.
+
+Feedback: Customers are sometimes rude, but my supervisor always has my back. I wish there were more snacks in the break room.
+
+Employee ID: 218 | Name: Deepak Joshi | Dept: Engineering | Tenure: 6 months | Gender: Male | Email: deepak.joshi@company.com
+Feedback: Still figuring things out. Everyone’s been helpful so far. No complaints.
