@@ -122,8 +122,9 @@ Employee_sentiment_analysis/
 
 *This project is licensed under the [MIT License](./LICENSE) © 2025 Sanchit Pandey.*
 
-You are free to use, modify, and distribute this software with attribution.
+You are free to use, modify, and distrivute this software with attribution.
 See the LICENSE file for details.
+
 ---
 ## Contact
 
